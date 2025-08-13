@@ -1,0 +1,25 @@
+{
+  "name": "renren-huandai",
+  "version": "1.0.0",
+  "description": "人人还贷 众筹平台",
+  "main": "index.js",
+  "scripts": {
+    "build": "remix build",
+    "dev": "remix dev",
+    "start": "remix-serve public"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "@remix-run/react": "^1.21.0",
+    "@remix-run/netlify": "^1.21.0"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.0",
+    "postcss": "^8.4.24",
+    "autoprefixer": "^10.4.14"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
