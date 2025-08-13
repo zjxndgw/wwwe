@@ -1,0 +1,6 @@
+"dependencies": {
+  "react": "^18.2.0",
+  "react-dom": "^18.2.0",
+  "@remix-run/react": "^1.19.0",
+  "@remix-run/netlify": "^1.19.0"
+}
